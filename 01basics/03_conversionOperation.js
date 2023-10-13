@@ -27,7 +27,7 @@
 // let convertstring = Number(stringconvert)
 // console.log(convertstring);
 
-let Numberc = 23
-let convertString = String(Numberc)
-console.log(convertString);  // string
-console.log(typeof (convertString)); // string
+// let Numberc = 23
+// let convertString = String(Numberc)
+// console.log(convertString);  // string
+// console.log(typeof (convertString)); // string
